@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm MaDyEl!
 
-<!--
-**madyel/madyel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate developer focused on **automation, cybersecurity, scripting, and full-stack development**.  
+I enjoy building custom tools, optimizing systems, and solving real-world problems through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Skills
+
+- 👨‍💻 Languages: `Python`, `C`, `C++`, `Java`, `C#`, `PHP`, `JavaScript`, `TypeScript`, `SQL`
+- 🌐 Web: `Angular`, `HTML5`, `CSS3`, `REST API`, `Flask`, `Node.js`, `Express`
+- 🛠️ Backend & DB: `MySQL`, `PostgreSQL`, `SQLite`, `Entity Framework`, `Doctrine`
+- 🐧 Systems: `Linux`, `Arch Linux`, `Debian`, `Bash`, `Docker`, `Systemd`
+- ⚙️ DevOps: `Git`, `Docker`, `Kubernetes`, `Azure DevOps`, `CI/CD pipelines`
+- 🖥️ GUI & Desktop: `PyQt5`, `Tkinter`, `Electron`
+- 🔐 Security & Tools: `Password hashing`, `Argon2`, `Bcrypt`, `Encryption`, `SSH automation`
+
+---
